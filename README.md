@@ -1,3 +1,3 @@
-# Linear-Regression-Case-Study
+# Logistic-Regression-Case-Study
 
-# Simple Case Study of preprocessing raw data and fitting the raw data into the linear regession model
+# Simple Case Study of preprocessing raw data and fitting the raw data into the logistic regession model
